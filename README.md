@@ -19,8 +19,8 @@ RESTful API for task management built in Go.
 
 ## Run with Docker
 
-- docker build -t go-task-api .
-- docker run -p 8080:8080 go-task-api
+- `docker build -t go-task-api .`
+- `docker run -p 8080:8080 go-task-api`
 
 # CI/CD
 
